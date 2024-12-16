@@ -1,7 +1,7 @@
 * {
   margin:0;
   padding:0;
-  box-sizing: border-box;
+  
 }
 :root {
   line-height: 150%;
@@ -12,6 +12,7 @@ body {
   background-image: url("./assets/bg-image.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  box-sizing: border-box;
 }
 
 #page {
@@ -51,4 +52,14 @@ h1,h2{
 }
 ul{
   padding-left: 1.5rem;
+}
+
+footer{
+  color:#F0E8C2;
+  padding-top: 1.75rem;
+  padding-bottom: 2.5rem;
+  text-align: center;
+}
+footer img{
+  vertical-align: middle;
 }
