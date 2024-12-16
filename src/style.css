@@ -3,7 +3,8 @@
 }
 :root {
   line-height: 150%;
-  color:
+  color:#573A37;
+  font-family: Alice, "sans-serif";
 }
 body {
   background-image: url("./assets/bg-image.jpg");
@@ -29,4 +30,7 @@ h1 {
 
 h2 {
   font-size: 1.5rem;
+}
+h1,h2{
+    color:#291B1A;
 }
